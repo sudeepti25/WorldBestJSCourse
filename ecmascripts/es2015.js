@@ -72,7 +72,7 @@
 // }
 // // name = "technical";
 // console.log(name);
-
+// let works in its scope only, var can work globally
 //* ==========================================
 //* TEMPLATE STRINGS - EcmaScript 2015
 //* =========================================
